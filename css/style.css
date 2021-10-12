@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+html{
+    font-size: 100%;
+}
+
+body{
+   background-color: #f6f8f9;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.black {
+  color: black;
+}
+
+header img {
+  height: 80%;
+  vertical-align: left;
+}
+
+header h1{
+    display: inline-block;
+    height: 100%;
+}
+  
+
