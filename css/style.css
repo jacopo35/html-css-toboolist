@@ -9,13 +9,10 @@ html{
 }
 
 body{
-   background-color: #f6f8f9;
+   background-color:#f6f8f9;
 }
 
-.container {
-  width: 100%;
-  margin: 0 auto;
-}
+
 .black {
   color: black;
 }
@@ -29,5 +26,24 @@ header h1{
     display: inline-block;
     height: 100%;
 }
+
+.white{
+    background-color: white;
+}
+
+
+
+#blue-button{
+    background-color: #47adf1;
+    color: white;
+}
+
+.pulsanti{
+    width: 80%;
+    margin: 0 auto;
+    height: 300;
+}
+
+
   
 
