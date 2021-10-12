@@ -6,6 +6,7 @@
 
 html{
     font-size: 130%;
+    font-style:normal;
 }
 
 body{
@@ -49,9 +50,56 @@ header h1{
 main{
     width: 80%;
     margin: 0 auto;
-    
 }
 
+.editorial{
+    display: inline-block;
+    background-color:#46abe9;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: italic;
+}
+.Q1{
+    display: inline-block;
+    background-color:#9c72e4;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: oblique;
+}
+.recruiting{
+    display: inline-block;
+    background-color:#65c0a9;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: italic;
+}
+.mobile{
+    display: inline-block;
+    background-color:#f29e33;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: oblique;
+}
+.website{
+    display: inline-block;
+    background-color:#d863a0;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: italic;
+}
+.sales{
+    display: inline-block;
+    background-color:#b0c926;
+    padding: 5px;
+    border-radius: 25%;
+    color: white;
+    font-style: oblique;
+}
 
   
 
